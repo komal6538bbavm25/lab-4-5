@@ -1,1 +1,1 @@
-# lab-4-5
+This document explores AI image generation using ChatGPT, Gemini, and Canva with the same aviation prompt. It compares realism, lighting, facial features, airport backgrounds, uniforms, and visual styles. It also tests camera-left and camera-right lighting instructions, showing how precise spatial prompts improve image control and consistency. 
